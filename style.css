@@ -21,11 +21,16 @@
   .card-body{
     background-color: #39393d;
   }
-
   .card-body h1, .card-text, .container-fluid .navbar-brand{
     color: white;
   }
 
   .container-fluid .navbar-brand:hover{
+    color: white;
+  }
+
+  .navbar-toggler-icon {
+    font-size: 20px;
+    background-color: #ffffff;
     color: white;
   }
